@@ -13,22 +13,30 @@ Este repositório contém a resolução do teste técnico de desenvolvimento for
 * [Tailwind](https://tailwindcss.com/)
 * [Mantine UI](https://ui.mantine.dev/)
 * [TanStack Query](https://tanstack.com/query/latest)
-  
+* [PNPM](https://pnpm.io/installation)
+
 ## Requisitos para rodar o projecto:
 
 ### Setup de ambiente: 
-Node versão - <a href="https://nodejs.org/dist/v20.11.1/node-v20.11.1-x64.msi">LTS</a>
+- Node versão - <a href="https://nodejs.org/dist/v20.11.1/node-v20.11.1-x64.msi">LTS</a>
+- pnmp (Gerenciador de pacotes que foi utilizado no projecto)
 
-## Como rodar o projeto ✅
+## Como rodar o projeto? ✅
 
 1 - Clone o repositório
 
 ```
-Clone o repositório
+git clone https://github.com/afonsodasilva1/Resolucao-Teste-Tecnico-Desenvolvimento-Frontedn.git
 ```
 
-
-
+2 - Rode o seguinte comando para instalar todas as dependências necessárias: 
 ```
-Comando 2
+pnpm install
 ```
+
+3 - Rode o seguinte comando para rodar o projecto no ambiente de desenvolvimento: 
+```
+pnpm run dev
+```
+
+## Como me localizar no projecto?
