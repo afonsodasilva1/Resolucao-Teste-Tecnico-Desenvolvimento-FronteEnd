@@ -34,7 +34,7 @@ git clone https://github.com/afonsodasilva1/Resolucao-Teste-Tecnico-Desenvolvime
 pnpm install
 ```
 
-3 - Rode o seguinte comando para subir a API FUCK criada: 
+3 - Rode o seguinte comando para subir a API Fake criada: 
 ```
 pnpm json-server -p 3333 server.json
 ```
