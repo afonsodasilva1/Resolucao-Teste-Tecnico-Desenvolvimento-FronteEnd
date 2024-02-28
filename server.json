@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": "001",
+      "name": "Afonso Vicente",
+      "avatar": "https://github.com/afonsodasilva1.png",
+      "email": "afonso@gmail.com",
+      "phone_number": "945332002",
+      "date_added": {
+        "day": "12/12/2022",
+        "hour": "03:00 PM"
+      },
+      "designation": "Doctor",
+      "status": "Approved"
+    },
+    {
+      "id": "002",
+      "name": "Mauro Twister",
+      "avatar": "https://github.com/MauroTwister475.png",
+      "email": "twister@gmail.com",
+      "phone_number": "945551192",
+      "date_added": {
+        "day": "17/02/2024",
+        "hour": "03:00 PM"
+      },
+      "designation": "Especialist",
+      "status": "Declined"
+    },
+    {
+      "id": "003",
+      "name": "Java Simon",
+      "avatar": "https://github.com/johnsimon21.png",
+      "email": "java@gmail.com",
+      "phone_number": "945332002",
+      "date_added": {
+        "day": "30/12/2022",
+        "hour": "03:00 PM"
+      },
+      "designation": "Doctor",
+      "status": "Approved"
+    },
+    {
+      "id": "004",
+      "name": "Miguel Deep",
+      "avatar": "https://github.com/MiguelDeep.png",
+      "email": "deep@gmail.com",
+      "phone_number": "945332002",
+      "date_added": {
+        "day": "23/09/2021",
+        "hour": "03:00 PM"
+      },
+      "designation": "Nurse",
+      "status": "Declined"
+    },
+    {
+      "id": "005",
+      "name": "Fábio Junik",
+      "avatar": "https://github.com/fabiojunik.png",
+      "email": "abfline@gmail.com",
+      "phone_number": "945332002",
+      "date_added": {
+        "day": "27/08/2020",
+        "hour": "03:00 PM"
+      },
+      "designation": "Surgeon",
+      "status": "Approved"
+    }
+  ]
+}
