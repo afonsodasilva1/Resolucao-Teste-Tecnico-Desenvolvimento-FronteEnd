@@ -34,9 +34,29 @@ git clone https://github.com/afonsodasilva1/Resolucao-Teste-Tecnico-Desenvolvime
 pnpm install
 ```
 
-3 - Rode o seguinte comando para rodar o projecto no ambiente de desenvolvimento: 
+3 - Rode o seguinte comando para rodar o json server: 
+```
+pnpm json-server -p 3333 server.json
+```
+4 -  E por fim, rode o seguinte código:
 ```
 pnpm run dev
 ```
 
 ## Como me localizar no projecto?
+
+- `./src`: src ou source  é a pasta onde estão os arquivos de configuracao e outras pasta
+- `./src/app/pages`: Pasta onde estão as paginas da aplicação
+- `./src/app/api`: Pasta onde tem a base url da api
+- `./src/app/components`: Pasta onde conntém os componenetes reutilizaveis, ou seja que serão usados várias vezes na aplicação
+- `./src/app/@type`: Paste onde contém as interfaces utilizadas na aplicação
+- `./src/app/assets`: Paste onde contém os arquivos de midias utilizadas na aplicação
+- `./src/app/providers`:  Pasta onde tem os providers da aplicação
+
+## ⚠️ Problemas enfrentados
+
+### Problema 1:
+Tive problema em usar biblioteca de componentes prontos  cchamada material UI
+* Como solucionar:  Decidi criar os meus próprios componentes. Achei melhor porque quando criamos os nossos próprios componentes, temos melhor controle das propriedades e estilização, tornando mais flexível e escaláve. Os componentes prontos ja vêm com uma estilização padrão e muitas das vezes fica difícil tirar ou extender a essa estiçização
+
+
